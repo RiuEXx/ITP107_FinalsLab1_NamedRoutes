@@ -1,0 +1,4 @@
+# Leave the generated Android and iOS platform folders out of GitHub's
+# language statistics, so the repo shows only Dart and HTML.
+android/** linguist-vendored
+ios/** linguist-vendored
