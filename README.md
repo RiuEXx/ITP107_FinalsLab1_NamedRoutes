@@ -4,6 +4,8 @@
 
 ITP107 – Mobile Application Development · Section 3-ITA · Group 15 · Sir Albert Alforja
 
+**Live demo:** [riuexx.github.io/ITP107_FinalsLab1_NamedRoutes](https://riuexx.github.io/ITP107_FinalsLab1_NamedRoutes/) (runs in the browser)
+
 A three-screen Flutter app where every screen is a named route. The name entered
 on the Sign-Up screen reaches the Home screen through route arguments.
 
