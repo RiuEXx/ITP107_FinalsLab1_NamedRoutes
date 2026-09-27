@@ -2,13 +2,13 @@
 
 **Routes and Navigation in Flutter: Login → Sign-Up → Home**
 
-ITP107 – Mobile Application Development · Section 3-ITA · Sir Albert Alforja
+ITP107 – Mobile Application Development · Section 3-ITA · Group 15 · Sir Albert Alforja
 
 A three-screen Flutter app where every screen is a named route. The name entered
 on the Sign-Up screen is passed to the Home screen as a route argument, and the
 app uses four different `Navigator` methods to move between screens.
 
-## Group members and roles
+## Group 15 members and roles
 
 | Member | Role |
 | --- | --- |
